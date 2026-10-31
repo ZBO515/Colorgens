@@ -1,1 +1,1 @@
-# Colorgens-Chatfilter
+G = open
