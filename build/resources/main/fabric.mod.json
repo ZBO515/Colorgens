@@ -1,0 +1,19 @@
+{
+	"schemaVersion": 1,
+	"id": "chatfilter",
+	"version": "1.0.0",
+	"name": "Chat Filter Editor",
+	"description": "Taste druecken, Chat-Bereiche markieren und dauerhaft ausblenden.",
+	"authors": [],
+	"license": "MIT",
+	"environment": "client",
+	"entrypoints": {
+		"client": ["dev.chatfilter.ChatFilterClient"]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
