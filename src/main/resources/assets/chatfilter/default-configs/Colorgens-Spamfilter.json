@@ -290,5 +290,29 @@
   {
     "text": "Receive {*} XP but crops re-grow slowly",
     "removeOnlyText": false
+  },
+  {
+    "text": "Every ore drops x{*} and comes back x{*} as fast!",
+    "removeOnlyText": false
+  },
+  {
+    "text": "✦ Sell for {*}x more",
+    "removeOnlyText": false
+  },
+  {
+    "text": "✦ /fly, white chat, no chat cooldown, fishing XP totems",
+    "removeOnlyText": false
+  },
+  {
+    "text": "{*} chance: {*} | {*} chance: {*} | {*} chance: {*}",
+    "removeOnlyText": false
+  },
+  {
+    "text": "✦ /fly, /autosell, /enderchest and /craft",
+    "removeOnlyText": false
+  },
+  {
+    "text": "Every ore in the cave is worth x{*}!",
+    "removeOnlyText": false
   }
 ]

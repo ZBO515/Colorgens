@@ -306,5 +306,41 @@
   {
     "text": "Rain",
     "removeOnlyText": false
+  },
+  {
+    "text": "Every ore in the cave is worth {*}",
+    "removeOnlyText": false
+  },
+  {
+    "text": "✦ /fly, /autosell, /enderchest and /craft",
+    "removeOnlyText": false
+  },
+  {
+    "text": "{*} chance: {**} chance: {**} chance: {*}",
+    "removeOnlyText": false
+  },
+  {
+    "text": "✦ /fly, white chat, no chat cooldown, fishing XP totems",
+    "removeOnlyText": false
+  },
+  {
+    "text": "✦ Sell for{**}x more",
+    "removeOnlyText": false
+  },
+  {
+    "text": "Every ore drops {*} and comes back{**} as fast!",
+    "removeOnlyText": false
+  },
+  {
+    "text": "Gold Rush",
+    "removeOnlyText": false
+  },
+  {
+    "text": "Cash Hunt",
+    "removeOnlyText": false
+  },
+  {
+    "text": "Motherlode",
+    "removeOnlyText": false
   }
 ]
