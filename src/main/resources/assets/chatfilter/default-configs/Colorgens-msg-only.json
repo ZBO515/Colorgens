@@ -292,23 +292,15 @@
     "removeOnlyText": false
   },
   {
-    "text": "COLORGENS",
+    "text": "✦ /fly, white chat, no chat cooldown, fishing XP totems",
     "removeOnlyText": false
   },
   {
-    "text": "Storm",
+    "text": "✦ Sell for 2x more",
     "removeOnlyText": false
   },
   {
-    "text": "Gen Frenzy",
-    "removeOnlyText": false
-  },
-  {
-    "text": "Rain",
-    "removeOnlyText": false
-  },
-  {
-    "text": "Every ore in the cave is worth {*}",
+    "text": "✦ Sell for 2.5x more",
     "removeOnlyText": false
   },
   {
@@ -316,31 +308,59 @@
     "removeOnlyText": false
   },
   {
+    "text": "✦ {*}% cashback on gen upgrades",
+    "removeOnlyText": false
+  },
+  {
+    "text": "✦ {*} sell and {*} XP, for good",
+    "removeOnlyText": false
+  },
+  {
+    "text": "Fish bite {*} as fast and every catch lands {*}!",
+    "removeOnlyText": false
+  },
+  {
+    "text": "Crops re-grow corrupted, every harvest pays {*}!",
+    "removeOnlyText": false
+  },
+  {
+    "text": "COLORGENS → {*} fished up a Pumpkin Generator!",
+    "removeOnlyText": false
+  },
+  {
+    "text": "COLORGENS → {*} won {**} from the Halloween Crate.",
+    "removeOnlyText": false
+  },
+  {
+    "text": "COLORGENS → {*} won {**} from the October Crate.",
+    "removeOnlyText": false
+  },
+  {
+    "text": "{*} grew the Golden Crop and finished the plains!",
+    "removeOnlyText": false
+  },
+  {
+    "text": "Fishing catches are worth x{*}!",
+    "removeOnlyText": false
+  },
+  {
+    "text": "Every ore drops x{*} and comes back x{*} as fast!",
+    "removeOnlyText": false
+  },
+  {
     "text": "{*} chance: {**} chance: {**} chance: {*}",
     "removeOnlyText": false
   },
   {
-    "text": "✦ /fly, white chat, no chat cooldown, fishing XP totems",
+    "text": "Every ore in the cave is worth x{*}!",
     "removeOnlyText": false
   },
   {
-    "text": "✦ Sell for{**}x more",
+    "text": "Every harvest drops x{*}!",
     "removeOnlyText": false
   },
   {
-    "text": "Every ore drops {*} and comes back{**} as fast!",
-    "removeOnlyText": false
-  },
-  {
-    "text": "Gold Rush",
-    "removeOnlyText": false
-  },
-  {
-    "text": "Cash Hunt",
-    "removeOnlyText": false
-  },
-  {
-    "text": "Motherlode",
+    "text": "COLORGENS",
     "removeOnlyText": false
   }
 ]

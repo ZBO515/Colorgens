@@ -292,19 +292,15 @@
     "removeOnlyText": false
   },
   {
-    "text": "Every ore drops x{*} and comes back x{*} as fast!",
-    "removeOnlyText": false
-  },
-  {
-    "text": "✦ Sell for {*}x more",
-    "removeOnlyText": false
-  },
-  {
     "text": "✦ /fly, white chat, no chat cooldown, fishing XP totems",
     "removeOnlyText": false
   },
   {
-    "text": "{*} chance: {*} | {*} chance: {*} | {*} chance: {*}",
+    "text": "✦ Sell for 2x more",
+    "removeOnlyText": false
+  },
+  {
+    "text": "✦ Sell for 2.5x more",
     "removeOnlyText": false
   },
   {
@@ -312,7 +308,55 @@
     "removeOnlyText": false
   },
   {
+    "text": "✦ {*}% cashback on gen upgrades",
+    "removeOnlyText": false
+  },
+  {
+    "text": "✦ {*} sell and {*} XP, for good",
+    "removeOnlyText": false
+  },
+  {
+    "text": "Fish bite {*} as fast and every catch lands {*}!",
+    "removeOnlyText": false
+  },
+  {
+    "text": "Crops re-grow corrupted, every harvest pays {*}!",
+    "removeOnlyText": false
+  },
+  {
+    "text": "COLORGENS → {*} fished up a Pumpkin Generator!",
+    "removeOnlyText": false
+  },
+  {
+    "text": "COLORGENS → {*} won {**} from the Halloween Crate.",
+    "removeOnlyText": false
+  },
+  {
+    "text": "COLORGENS → {*} won {**} from the October Crate.",
+    "removeOnlyText": false
+  },
+  {
+    "text": "{*} grew the Golden Crop and finished the plains!",
+    "removeOnlyText": false
+  },
+  {
+    "text": "Fishing catches are worth x{*}!",
+    "removeOnlyText": false
+  },
+  {
+    "text": "Every ore drops x{*} and comes back x{*} as fast!",
+    "removeOnlyText": false
+  },
+  {
+    "text": "{*} chance: {**} chance: {**} chance: {*}",
+    "removeOnlyText": false
+  },
+  {
     "text": "Every ore in the cave is worth x{*}!",
+    "removeOnlyText": false
+  },
+  {
+    "text": "Every harvest drops x{*}!",
     "removeOnlyText": false
   }
 ]
